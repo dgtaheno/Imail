@@ -198,8 +198,11 @@ The program works as follows:
 Additionally, in all the steps, the following commands can we executed from Telegram:
 
 /check : Check if Imail is online.
+
 /getid : Check Telegram chat ID for configuration purpose.
+
 /status : Check if mailbox trap door is open or closed.
+
 /help : Shows available commands.
 
 Please note that this commands are valid only if CHAT_ID configured, if not only /getid command will work for configuration purpose.
