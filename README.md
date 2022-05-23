@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/dgtaheno/Imail/main/pictures/logo.png?token=GHSAT0AAAAAABSVKVLHBJMSLE3JFGWRX7CKYT6XYHA" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">I-mail 0.1.1-Alpha</h3>
+  <h3 align="center">I-mail 0.1.0-Alpha</h3>
 
 [Video Demo](https://www.youtube.com)
 
@@ -201,7 +201,6 @@ Additionally, in all the steps, the following commands can we executed from Tele
 /getid : Check Telegram chat ID for configuration purpose.
 /status : Check if mailbox trap door is open or closed.
 /help : Shows available commands.
-/photo : Takes a picture from Mailbox.
 
 Please note that this commands are valid only if CHAT_ID configured, if not only /getid command will work for configuration purpose.
 
@@ -219,8 +218,9 @@ Please note that this commands are valid only if CHAT_ID configured, if not only
 - [x] Upload program to ESP32CAM.
 - [x] Test
 - [x] Create README.md
-- [x] Pictures when receiving mail & also when receiving /photo Telegram command implementation.
+
 - [ ] Upgrade with new features:
+  - Pictures when receiving mail & also when receiving /photo Telegram command implementation.
   - Battery monitoring notifications and Telegram battery check command.
   - Add a second reed sensor so when opening the mailbox to collect the mail sends a notification that the mail has been collected.
   - Add WiFi manager function for initial configuration via an Access Point instead of hard coding.
