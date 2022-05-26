@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dgtaheno/Imail">
-    <img src="https://raw.githubusercontent.com/dgtaheno/Imail/main/pictures/logo.png?token=GHSAT0AAAAAABSVKVLHBJMSLE3JFGWRX7CKYT6XYHA" alt="Logo" width="80" height="80">
+    <img src="https://github.com/dgtaheno/Imail/blob/master/pictures/logo.png?raw=true" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">I-mail 0.1.0-Alpha</h3>
