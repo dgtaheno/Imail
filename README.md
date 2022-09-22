@@ -25,7 +25,7 @@
 
   <h3 align="center">I-mail 0.1.0-Alpha</h3>
 
-[Video Demo](https://www.youtube.com)
+[Video Demo](https://youtu.be/sqTqYwuiOkI)
 
   <p align="left">
     Got bored of checking the mailbox everyday, so let´s IoT it.
